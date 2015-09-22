@@ -19,4 +19,4 @@
     <item android:state_focused="true" android:drawable="@drawable/flechas_pressed" />
     <item android:drawable="@drawable/flechas" />
 </selector>
-<!-- From: file:/Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/res/drawable/btn_flechas.xml -->
+<!-- From: file:/Users/juancarlosmansoperez/AndroidStudioProjects/RV_Android/app/src/main/res/drawable/btn_flechas.xml -->

@@ -1,17 +1,23 @@
+import com.android.build.gradle.AppExtension
+import com.android.build.gradle.internal.dsl.ProductFlavor
+
 apply plugin: 'com.android.application'
 
-android {
+final def extension = android {
     compileSdkVersion 16
     buildToolsVersion "23.0.1"
 
+    final def config = defaultConfig {
+        applicationId "mansoftware.rv"
+        minSdkVersion 10
+        targetSdkVersion 16
+        
+    }
     defaultConfig {
         applicationId "mansoftware.rv"
         minSdkVersion 10
         targetSdkVersion 16
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_7
-            targetCompatibility JavaVersion.VERSION_1_7
-        }
+        
     }
 
     buildTypes {
@@ -21,3 +27,4 @@ android {
         }
     }
 }
+extension

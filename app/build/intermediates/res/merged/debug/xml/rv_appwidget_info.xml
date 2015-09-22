@@ -4,4 +4,4 @@
     android:minHeight="36px"
 	android:initialLayout="@layout/widget_play">
 </appwidget-provider>
-<!-- From: file:/Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/res/xml/rv_appwidget_info.xml -->
+<!-- From: file:/Users/juancarlosmansoperez/AndroidStudioProjects/RV_Android/app/src/main/res/xml/rv_appwidget_info.xml -->

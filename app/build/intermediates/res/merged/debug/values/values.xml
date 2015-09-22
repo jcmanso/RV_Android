@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/juancarlosmansoperez/AndroidStudioProjects/RV_Android/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Rezando Voy</string>
     <string name="app_title">rezandovoy</string>
     <string name="button_ok">Aceptar</string>
     <string name="error">No hay oracion disponible</string>
     <string name="idioma">Espanol</string>
-    <string name="url">http://rezandovoy.org/images/stories/mp3/rv</string>
+    <string name="url">http://rvserver.sjdigitaldemo.ovh</string>
 </resources>
