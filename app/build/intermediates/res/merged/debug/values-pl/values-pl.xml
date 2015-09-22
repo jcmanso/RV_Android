@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">modlitwawdrodze</string>
+    <string name="app_title">modlitwawdrodze</string>
+    <string name="button_ok">Przyjąć</string>
+    <string name="error">Brak modlitwy dostępna</string>
+    <string name="idioma">Polaco</string>
+    <string name="url">http://www.modlitwawdrodze.pl/db/mp3/MWD_</string>
+</resources>

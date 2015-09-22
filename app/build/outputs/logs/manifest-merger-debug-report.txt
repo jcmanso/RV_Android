@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:17:1-74:12
+	xmlns:android
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:17:11-69
+	package
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:18:5-29
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:20:5-32
+	android:versionCode
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:19:5-29
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:22:5-74
+	android:targetSdkVersion
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:22:42-71
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:22:15-41
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:24:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:25:22-65
+application
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:27:5-73:19
+	android:label
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:27:55-88
+	android:icon
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:27:18-54
+activity#es.mansoftware.rv.MainActivity
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:screenOrientation
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:30:13-46
+	android:theme
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:29:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:35:27-74
+service#es.mansoftware.rv.MusicService
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:39:9-53:19
+	android:exported
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:39:18-42
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:39:43-88
+intent-filter#es.mansoftware.rvapp.action.PAUSE+es.mansoftware.rvapp.action.PLAY+es.mansoftware.rvapp.action.REWIND+es.mansoftware.rvapp.action.SKIP+es.mansoftware.rvapp.action.STOP+es.mansoftware.rvapp.action.TOGGLE_PLAYBACK+es.mansoftware.rvapp.action.WIDGET
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:40:13-48:29
+action#es.mansoftware.rvapp.action.TOGGLE_PLAYBACK
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:41:17-86
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:41:25-83
+action#es.mansoftware.rvapp.action.PLAY
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:42:17-75
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:42:25-72
+action#es.mansoftware.rvapp.action.PAUSE
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:43:25-73
+action#es.mansoftware.rvapp.action.SKIP
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:44:17-75
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:44:25-72
+action#es.mansoftware.rvapp.action.REWIND
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:45:25-74
+action#es.mansoftware.rvapp.action.STOP
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:46:17-75
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:46:25-72
+action#es.mansoftware.rvapp.action.WIDGET
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:47:25-74
+intent-filter#es.mansoftware.rvapp.action.URL
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:49:13-52:29
+action#es.mansoftware.rvapp.action.URL
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:50:17-74
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:50:25-71
+data
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:51:17-47
+	android:scheme
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:51:23-44
+receiver#es.mansoftware.rv.MusicIntentReceiver
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:55:9-62:20
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:55:19-71
+intent-filter#android.media.AUDIO_BECOMING_NOISY
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:56:13-58:29
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:57:25-74
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:59:13-61:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:60:25-74
+receiver#es.mansoftware.rv.RvWidget
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:64:9-71:17
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:64:19-60
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:65:7-67:23
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:66:8-74
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:66:16-72
+meta-data#android.appwidget.provider
+ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:68:7-70:51
+	android:resource
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:70:8-49
+	android:name
+		ADDED from /Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/AndroidManifest.xml:69:8-49

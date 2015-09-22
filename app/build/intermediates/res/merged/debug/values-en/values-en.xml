@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/res/values-en/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Pray-as-you-go</string>
+    <string name="app_title">PrayAsYouGo</string>
+    <string name="button_ok">Ok</string>
+    <string name="error">No prayer available</string>
+    <string name="idioma">Ingles</string>
+    <string name="url">http://www.pray-as-you-go.org/</string>
+</resources>

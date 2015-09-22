@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_title">rezandovoy</string>
+    <string name="app_name">Rezando Voy</string>
+    <string name="url">http://rvserver.sjdigitaldemo.ovh</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="error">No hay oracion disponible</string>
+    <string name="idioma">Espanol</string>
+</resources>

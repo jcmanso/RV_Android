@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">rezandovoy</string>
+    <string name="app_name">Rezando Voy</string>
+    <string name="url">http://rvserver.sjdigitaldemo.ovh</string>
+    <string name="button_ok">Ok</string>
+    <string name="error">No prayer available</string>
+    <string name="idioma">Ingles</string>
+</resources>
+

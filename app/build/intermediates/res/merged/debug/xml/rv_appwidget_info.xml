@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="36px"
+    android:minHeight="36px"
+	android:initialLayout="@layout/widget_play">
+</appwidget-provider>
+<!-- From: file:/Users/anazurrocatala/Documents/Juan/rezandovoyapp/app/src/main/res/xml/rv_appwidget_info.xml -->
